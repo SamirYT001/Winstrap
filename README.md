@@ -61,9 +61,15 @@ If you cant open it just download the file. Now if its normal archives like zip 
 ### Tools used for this project
 
 **Microsoft Visual Studio 2022**: [Visual Studio](https://visualstudio.microsoft.com/)
+
 **.Net Framework 6.0**: [.NET](https://dotnet.microsoft.com/)
+
 **Git**: [Git](https://git-scm.com/)
+
 **WinRar**: [WinRAR](https://www.win-rar.com/)
+
 **7-Zip**: [7-Zip](https://www.7-zip.org/)
+
 **SUBL**: [Sublime Text](https://www.sublimetext.com/)
+
 **Windows 11**: Version 26H2
