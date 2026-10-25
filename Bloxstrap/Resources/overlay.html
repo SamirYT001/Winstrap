@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Winstrap Overlay</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            width: 100vw;
+            height: 100vh;
+            background: transparent;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow: hidden;
+            pointer-events: none; /* Пропускаем клики сквозь оверлей */
+        }
+        
+        .overlay-container {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(10px);
+            border-radius: 12px;
+            padding: 20px;
+            color: white;
+            min-width: 300px;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        .overlay-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .overlay-logo {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 8px;
+            margin-right: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        .overlay-title {
+            font-size: 18px;
+            font-weight: 600;
+        }
+        
+        .overlay-content {
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .overlay-status {
+            display: flex;
+            align-items: center;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: #4CAF50;
+            border-radius: 50%;
+            margin-right: 8px;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .status-text {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.7);
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay-container">
+        <div class="overlay-header">
+            <div class="overlay-logo">W</div>
+            <div class="overlay-title">Winstrap Overlay</div>
+        </div>
+        <div class="overlay-content">
+            <div>🎮 Игра запущена через Winstrap</div>
+            <div>⚡ Оверлей активен</div>
+        </div>
+        <div class="overlay-status">
+            <div class="status-dot"></div>
+            <div class="status-text">Подключено</div>
+        </div>
+    </div>
+
+    <script>
+        console.log("Winstrap Overlay loaded!");
+        
+        // Здесь можно добавить логику:
+        // - Получение данных об игре
+        // - Отображение FPS, пинга
+        // - Горячие клавиши для скрытия/показа
+        
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'F12') {
+                document.querySelector('.overlay-container').style.display = 
+                    document.querySelector('.overlay-container').style.display === 'none' ? 'block' : 'none';
+            }
+        });
+    </script>
+</body>
+</html>
