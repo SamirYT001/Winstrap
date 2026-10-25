@@ -1,0 +1,947 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\winstrap-2.9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\launchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\launchhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\launchsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\launchsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\overlaywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\overlaywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\viewmodels\\settings\\fastflagsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\viewmodels\\settings\\fastflagsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\overlaywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\overlaywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\build\\Microsoft.Build.Tasks.Git.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\appdata\\iappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\appdata\\iappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\appdata\\robloxplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\appdata\\robloxplayerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\appdata\\commonappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\appdata\\commonappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\dialogs\\launchmenudialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\dialogs\\launchmenudialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\integrationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\integrationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\viewmodels\\settings\\integrationsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\viewmodels\\settings\\integrationsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\fastflagspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\fastflagspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\fastflageditorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\fastflageditorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\modspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\modspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\bootstrapperpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\bootstrapperpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\bloxstrappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\bloxstrappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\appearancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\appearancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|D:\\winstrap-2.9.1\\bloxstrap\\resources\\strings.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\resources\\strings.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|D:\\winstrap-2.9.1\\bloxstrap\\resources\\strings.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\resources\\strings.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\integrationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\integrationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\fastflageditorwarningpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\fastflageditorwarningpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\bootstrapper\\classicfluentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\bootstrapper\\classicfluentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\bootstrapper\\byfrondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\bootstrapper\\byfrondialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\integrations\\discordrichpresence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\integrations\\discordrichpresence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\enums\\bootstrappericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\enums\\bootstrappericon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\enums\\flagpresets\\ingamemenuversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\enums\\flagpresets\\ingamemenuversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\extensions\\bootstrapperstyleex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\extensions\\bootstrapperstyleex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\extensions\\bootstrappericonex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\extensions\\bootstrappericonex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|D:\\winstrap-2.9.1\\bloxstrap\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\dialogs\\launchmenudialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\dialogs\\launchmenudialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\robloxinterfaces\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\robloxinterfaces\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\extensions\\iconex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\extensions\\iconex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\viewmodels\\settings\\appearanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\viewmodels\\settings\\appearanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\settings\\pages\\appearancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\settings\\pages\\appearancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\fastflagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\fastflagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\robloxinterfaces\\deployment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\robloxinterfaces\\deployment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|d:\\winstrap-2.9.1\\wpfui\\src\\wpf.ui\\controls\\navigationfluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|solutionrelative:wpfui\\src\\wpf.ui\\controls\\navigationfluent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|d:\\winstrap-2.9.1\\wpfui\\src\\wpf.ui\\controls\\interfaces\\inavigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|solutionrelative:wpfui\\src\\wpf.ui\\controls\\interfaces\\inavigationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\about\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\about\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\editor\\bootstrappereditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\editor\\bootstrappereditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\controls\\optioncontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\controls\\optioncontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\controls\\expander.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\controls\\expander.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\contextmenu\\serverinformation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\contextmenu\\serverinformation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\contextmenu\\serverhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\contextmenu\\serverhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\contextmenu\\menucontainer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\contextmenu\\menucontainer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\bootstrapper\\fluentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\bootstrapper\\fluentdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\bootstrapper\\customdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\bootstrapper\\customdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\elements\\installer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\elements\\installer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|d:\\winstrap-2.9.1\\wpfui\\src\\wpf.ui\\titlebar\\snaplayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|solutionrelative:wpfui\\src\\wpf.ui\\titlebar\\snaplayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|d:\\winstrap-2.9.1\\wpfui\\src\\wpf.ui\\titlebar\\snaplayoutbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|solutionrelative:wpfui\\src\\wpf.ui\\titlebar\\snaplayoutbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|d:\\winstrap-2.9.1\\wpfui\\src\\wpf.ui\\titlebar\\titlebarbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|solutionrelative:wpfui\\src\\wpf.ui\\titlebar\\titlebarbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|d:\\winstrap-2.9.1\\wpfui\\src\\wpf.ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADC87D1-8963-4100-845A-18477824718E}|wpfui\\src\\Wpf.Ui\\Wpf.Ui.csproj|solutionrelative:wpfui\\src\\wpf.ui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|d:\\winstrap-2.9.1\\bloxstrap\\ui\\viewmodels\\settings\\fastflageditorwarningviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D75146E-DA24-4B05-B6C9-250C8F81B0C7}|Bloxstrap\\Bloxstrap.csproj|solutionrelative:bloxstrap\\ui\\viewmodels\\settings\\fastflageditorwarningviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:27:12.586Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:41:28.302Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverlayWindow.xaml.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\OverlayWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\OverlayWindow.xaml.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\OverlayWindow.xaml.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\OverlayWindow.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:40:27.068Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OverlayWindow.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\OverlayWindow.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\OverlayWindow.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\OverlayWindow.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\OverlayWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-20T17:39:50.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Build.Tasks.Git.targets",
+              "DocumentMoniker": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\build\\Microsoft.Build.Tasks.Git.targets",
+              "ToolTip": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\build\\Microsoft.Build.Tasks.Git.targets",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-25T13:21:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaunchSettings.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\LaunchSettings.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\LaunchSettings.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\LaunchSettings.cs",
+              "RelativeToolTip": "Bloxstrap\\LaunchSettings.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvw4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T12:54:06.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RobloxPlayerData.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\AppData\\RobloxPlayerData.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\AppData\\RobloxPlayerData.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\AppData\\RobloxPlayerData.cs",
+              "RelativeToolTip": "Bloxstrap\\AppData\\RobloxPlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:06:38.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppData.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\AppData\\IAppData.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\AppData\\IAppData.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\AppData\\IAppData.cs",
+              "RelativeToolTip": "Bloxstrap\\AppData\\IAppData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:06:33.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommonAppData.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\AppData\\CommonAppData.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\AppData\\CommonAppData.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\AppData\\CommonAppData.cs",
+              "RelativeToolTip": "Bloxstrap\\AppData\\CommonAppData.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:06:15.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Bootstrapper.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Bootstrapper.cs",
+              "RelativeToolTip": "Bloxstrap\\Bootstrapper.cs",
+              "ViewState": "AgIAAMUCAAAAAAAAAAAgwEgCAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:02:15.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaunchHandler.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\LaunchHandler.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\LaunchHandler.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\LaunchHandler.cs",
+              "RelativeToolTip": "Bloxstrap\\LaunchHandler.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAqwPUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:29:59.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntegrationsViewModel.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\IntegrationsViewModel.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\ViewModels\\Settings\\IntegrationsViewModel.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\IntegrationsViewModel.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\ViewModels\\Settings\\IntegrationsViewModel.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAcwIcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:50:58.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IntegrationsPage.xaml.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:50:44.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IntegrationsPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\IntegrationsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-20T16:44:30.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FastFlagEditorWarningPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorWarningPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorWarningPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorWarningPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorWarningPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-20T16:44:18.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FastFlagEditorPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagEditorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-20T16:44:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LaunchMenuDialog.xaml.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T08:39:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Strings.ru.resx",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Resources\\Strings.ru.resx",
+              "RelativeDocumentMoniker": "Bloxstrap\\Resources\\Strings.ru.resx",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Resources\\Strings.ru.resx",
+              "RelativeToolTip": "Bloxstrap\\Resources\\Strings.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-20T08:20:02.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Strings.resx",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Resources\\Strings.resx",
+              "RelativeDocumentMoniker": "Bloxstrap\\Resources\\Strings.resx",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Resources\\Strings.resx",
+              "RelativeToolTip": "Bloxstrap\\Resources\\Strings.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-20T08:18:40.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IconEx.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Extensions\\IconEx.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Extensions\\IconEx.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Extensions\\IconEx.cs",
+              "RelativeToolTip": "Bloxstrap\\Extensions\\IconEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:12:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BootstrapperStyleEx.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Extensions\\BootstrapperStyleEx.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Extensions\\BootstrapperStyleEx.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Extensions\\BootstrapperStyleEx.cs",
+              "RelativeToolTip": "Bloxstrap\\Extensions\\BootstrapperStyleEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:14:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Bloxstrap\\Properties\\Resources.resx",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Properties\\Resources.resx",
+              "RelativeToolTip": "Bloxstrap\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-19T18:09:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Bloxstrap\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwGoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:09:39.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BootstrapperIconEx.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Extensions\\BootstrapperIconEx.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Extensions\\BootstrapperIconEx.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Extensions\\BootstrapperIconEx.cs",
+              "RelativeToolTip": "Bloxstrap\\Extensions\\BootstrapperIconEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:00:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InGameMenuVersion.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Enums\\FlagPresets\\InGameMenuVersion.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Enums\\FlagPresets\\InGameMenuVersion.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Enums\\FlagPresets\\InGameMenuVersion.cs",
+              "RelativeToolTip": "Bloxstrap\\Enums\\FlagPresets\\InGameMenuVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:00:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BootstrapperIcon.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Enums\\BootstrapperIcon.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Enums\\BootstrapperIcon.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Enums\\BootstrapperIcon.cs",
+              "RelativeToolTip": "Bloxstrap\\Enums\\BootstrapperIcon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:57:41.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiscordRichPresence.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\Integrations\\DiscordRichPresence.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\Integrations\\DiscordRichPresence.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\Integrations\\DiscordRichPresence.cs",
+              "RelativeToolTip": "Bloxstrap\\Integrations\\DiscordRichPresence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:49:53.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppearancePage.xaml.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:44:13.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\AssemblyInfo.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\AssemblyInfo.cs",
+              "RelativeToolTip": "Bloxstrap\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:42:43.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Deployment.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\RobloxInterfaces\\Deployment.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\RobloxInterfaces\\Deployment.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\RobloxInterfaces\\Deployment.cs",
+              "RelativeToolTip": "Bloxstrap\\RobloxInterfaces\\Deployment.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:41:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\RobloxInterfaces\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\RobloxInterfaces\\ApplicationSettings.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\RobloxInterfaces\\ApplicationSettings.cs",
+              "RelativeToolTip": "Bloxstrap\\RobloxInterfaces\\ApplicationSettings.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:41:16.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppearanceViewModel.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\AppearanceViewModel.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\ViewModels\\Settings\\AppearanceViewModel.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\AppearanceViewModel.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\ViewModels\\Settings\\AppearanceViewModel.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAswF8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:39:32.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NavigationFluent.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\Controls\\NavigationFluent.cs",
+              "RelativeDocumentMoniker": "wpfui\\src\\Wpf.Ui\\Controls\\NavigationFluent.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\Controls\\NavigationFluent.cs",
+              "RelativeToolTip": "wpfui\\src\\Wpf.Ui\\Controls\\NavigationFluent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:19:12.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "INavigationItem.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\Controls\\Interfaces\\INavigationItem.cs",
+              "RelativeDocumentMoniker": "wpfui\\src\\Wpf.Ui\\Controls\\Interfaces\\INavigationItem.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\Controls\\Interfaces\\INavigationItem.cs",
+              "RelativeToolTip": "wpfui\\src\\Wpf.Ui\\Controls\\Interfaces\\INavigationItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:13:21.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BootstrapperEditorWindow.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Editor\\BootstrapperEditorWindow.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Editor\\BootstrapperEditorWindow.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Editor\\BootstrapperEditorWindow.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Editor\\BootstrapperEditorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:37:36.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LaunchMenuDialog.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Dialogs\\LaunchMenuDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:34:47.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OptionControl.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Controls\\OptionControl.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Controls\\OptionControl.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Controls\\OptionControl.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Controls\\OptionControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:34:42.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Expander.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Controls\\Expander.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Controls\\Expander.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Controls\\Expander.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Controls\\Expander.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:34:40.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ServerInformation.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\ContextMenu\\ServerInformation.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\ContextMenu\\ServerInformation.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\ContextMenu\\ServerInformation.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\ContextMenu\\ServerInformation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:34:33.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ServerHistory.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\ContextMenu\\ServerHistory.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\ContextMenu\\ServerHistory.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\ContextMenu\\ServerHistory.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\ContextMenu\\ServerHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:34:29.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MenuContainer.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\ContextMenu\\MenuContainer.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\ContextMenu\\MenuContainer.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\ContextMenu\\MenuContainer.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\ContextMenu\\MenuContainer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:34:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\About\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\About\\MainWindow.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\About\\MainWindow.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\About\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:33:50.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FluentDialog.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\FluentDialog.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Bootstrapper\\FluentDialog.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\FluentDialog.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Bootstrapper\\FluentDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:32:44.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassicFluentDialog.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\ClassicFluentDialog.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Bootstrapper\\ClassicFluentDialog.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\ClassicFluentDialog.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Bootstrapper\\ClassicFluentDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:32:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ByfronDialog.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\ByfronDialog.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Bootstrapper\\ByfronDialog.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\ByfronDialog.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Bootstrapper\\ByfronDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:32:33.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CustomDialog.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\CustomDialog.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Bootstrapper\\CustomDialog.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Bootstrapper\\CustomDialog.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Bootstrapper\\CustomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:32:31.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Installer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Installer\\MainWindow.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Installer\\MainWindow.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Installer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:32:01.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BootstrapperPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\BootstrapperPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\BootstrapperPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\BootstrapperPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\BootstrapperPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:31:46.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppearancePage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\AppearancePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:31:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModsPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\ModsPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\ModsPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\ModsPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\ModsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:31:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BloxstrapPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\BloxstrapPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\BloxstrapPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\BloxstrapPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\BloxstrapPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T13:26:15.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SnapLayout.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayout.cs",
+              "RelativeDocumentMoniker": "wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayout.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayout.cs",
+              "RelativeToolTip": "wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayout.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:25:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SnapLayoutButton.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayoutButton.cs",
+              "RelativeDocumentMoniker": "wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayoutButton.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayoutButton.cs",
+              "RelativeToolTip": "wpfui\\src\\Wpf.Ui\\TitleBar\\SnapLayoutButton.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:25:39.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TitleBarButton.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\TitleBar\\TitleBarButton.cs",
+              "RelativeDocumentMoniker": "wpfui\\src\\Wpf.Ui\\TitleBar\\TitleBarButton.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\TitleBar\\TitleBarButton.cs",
+              "RelativeToolTip": "wpfui\\src\\Wpf.Ui\\TitleBar\\TitleBarButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:25:28.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "wpfui\\src\\Wpf.Ui\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\wpfui\\src\\Wpf.Ui\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "wpfui\\src\\Wpf.Ui\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:25:21.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FastFlagEditorWarningViewModel.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagEditorWarningViewModel.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagEditorWarningViewModel.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagEditorWarningViewModel.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagEditorWarningViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:01:45.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FastFlagsViewModel.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagsViewModel.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagsViewModel.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagsViewModel.cs",
+              "RelativeToolTip": "Bloxstrap\\UI\\ViewModels\\Settings\\FastFlagsViewModel.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAEwDYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:54:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FastFlagsPage.xaml",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagsPage.xaml",
+              "RelativeDocumentMoniker": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagsPage.xaml",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagsPage.xaml",
+              "RelativeToolTip": "Bloxstrap\\UI\\Elements\\Settings\\Pages\\FastFlagsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-19T12:52:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FastFlagManager.cs",
+              "DocumentMoniker": "D:\\winstrap-2.9.1\\Bloxstrap\\FastFlagManager.cs",
+              "RelativeDocumentMoniker": "Bloxstrap\\FastFlagManager.cs",
+              "ToolTip": "D:\\winstrap-2.9.1\\Bloxstrap\\FastFlagManager.cs",
+              "RelativeToolTip": "Bloxstrap\\FastFlagManager.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAIBJwJUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T12:48:30.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
